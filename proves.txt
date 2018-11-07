@@ -1,1 +1,3 @@
-Inici del fitxerde proves.txt per l'exercici de GIT del bloc comú dels itineraris de ITAcademy.
+Inici del fitxerde "proves.txt" per l'exercici de GIT del bloc comú dels itineraris de ITAcademy.
+
+Primera modificació de l'arxiu "proves.txt".
