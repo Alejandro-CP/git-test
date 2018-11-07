@@ -1,3 +1,6 @@
 Inici del fitxerde "proves.txt" per l'exercici de GIT del bloc comú dels itineraris de ITAcademy.
 
 Primera modificació de l'arxiu "proves.txt".
+
+He creat la branca "branch1" i he modificat el contingut del fitxer per questa branca.
+
