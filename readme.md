@@ -12,3 +12,5 @@
 
 ### Diagrames de classes
 [Exercici diagrama de classes 1](https://github.com/Alejandro-CP/diagrama_classes1.git)
+
+[Exercici diagrama de classes 2](https://github.com/Alejandro-CP/diagrama_classes2.git)
