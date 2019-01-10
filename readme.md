@@ -18,4 +18,6 @@
 ### Exercicis de programació en Java
 [Exercici Lletres Repetides](https://github.com/Alejandro-CP/LletresRepetides.git)
 
+[Exercici Videos Domini](https://github.com/Alejandro-CP/videos.git)
+
 
